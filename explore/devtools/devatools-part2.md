@@ -1,0 +1,2 @@
+1. The input numbers are intepretted as strings instead of integers, so the ```+``` is string concatenation instead of integer addition. 
+2. In the ```printSum()``` function, I added ```Number()``` over the variables ```num1``` and ```num2``` to make sure they are intepreted as ```integers``` when we calculate the sum of the two numbers. 
